@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Remote jobs with Toptal"
-description: "Getting location independent"
-tags: [technology]
+description: "Tyring to get location independent"
+tags: [technology, toptal] 
 ---
 
 It was July 2013. By then, I had been working in the software industry for networking giants like Cisco and Juniper for almost four years. It was a great job, many people’s dream job. I wrote some good code and earned good money. But there was something missing. I loved my job, but at the end of the day I still felt dissatisfied.
